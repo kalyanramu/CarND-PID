@@ -53,6 +53,6 @@ PID Tuning is the process of tuning the proportional, derivative, integral co-ef
 
 I have manually tuned the PID for this project. The car can still be tuned further as you will notice some oscillations in the beginning of the video. 
 
-Video Link: [a link] https://youtu.be/rPRmKiuKeK0
+Video Link: https://youtu.be/rPRmKiuKeK0
 
 However, the car finishes the track without getting off the road. A good PID system should be robust to external disturbance. I would have introduce random noise into the system and test controller's robustness if I had more time.
